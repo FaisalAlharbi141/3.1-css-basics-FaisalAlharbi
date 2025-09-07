@@ -97,7 +97,7 @@ p.winner{
 
 /* TODO 8: Group Selectors */
 /* Style trending tags h4, h5, h6 with class "trending-tag" to have color: #8b9dc3 and font-family: Arial */
-h4,h5,h6,.trending-tag{
+h4.trending-tag,h5.trending-tag,h6.trending-tag{
     color: #8b9dc3;
     font-family: Arial;
 }
