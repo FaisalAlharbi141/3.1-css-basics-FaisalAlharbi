@@ -104,6 +104,9 @@ h4,h5,h6,.trending-tag{
 
 /* TODO 9: Universal Selector */
 /* Use universal selector to add box-sizing: border-box to all elements */
+*{
+    box-sizing: border-box;
+}
 
 
 /* Basic Social Media Styling (Already completed for you) */
